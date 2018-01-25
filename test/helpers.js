@@ -1,8 +1,5 @@
 
 import { expect } from 'chai';
-import sinon from 'sinon';
-
-import { expect } from 'chai';
 import { sinon, spy } from 'sinon';
 import { mount, render, shallow } from 'enzyme';
 
